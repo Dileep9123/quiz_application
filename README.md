@@ -1,6 +1,6 @@
 # 🧠 Quiz Platform - Microservice Architecture with React Frontend
 
-This is a full-stack Quiz Application built using a microservice architecture. The platform allows users (teachers and students) to register, create quizzes, submit responses, and view statistics and profiles.
+This is a full-stack Quiz Application built using a microservice architecture. The platform allows users  to register, create quizzes, submit responses, and view statistics and profiles.
 
 ---
 
